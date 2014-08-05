@@ -1,0 +1,3 @@
+[submodule "Recipes/UITests/ynm3k"]
+	path = Recipes/UITests/ynm3k
+	url = https://github.com/douban/ynm3k.git
